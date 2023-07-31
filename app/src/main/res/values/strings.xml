@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LoginSignupFirebase</string>
+    <string name="herbalova">Herbalova</string>
+    <string name="already_have_account"><u>Already an user? Login</u></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="not_registered_yet"><u>Not yet registered? Sign Up</u></string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
 </resources>
